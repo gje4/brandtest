@@ -1,0 +1,1 @@
+ALTER TABLE "tasks" ADD COLUMN "v0_project_url" text;
